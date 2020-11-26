@@ -1,0 +1,4 @@
+name = 'Yevhen'
+day = 'Thursday'
+print('{0}, {1}'.format('Thursday', 'Yevhen'))
+print("Good day,{N}!{D} is a perfect day to learn some python".format(N=name, D=day))

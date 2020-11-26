@@ -1,0 +1,4 @@
+My_name = "Yevhen"
+My_Surnames = "Dubenko"
+print(My_name, My_Surnames)
+print('Hello it\'s me', My_name, My_Surnames)
